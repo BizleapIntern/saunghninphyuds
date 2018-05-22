@@ -1,0 +1,190 @@
+2018-05-18 12:16:10 DEBUG logging:29 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 12:16:13 DEBUG FileLoaderImpl:60 - File name....C:\Users\User\Documents\dsworkspace\bizleap-ds\bizleap-ds-service\src\main\java\employee
+2018-05-18 12:16:13 ERROR FileLoaderImpl:63 - File not found: C:\Users\User\Documents\dsworkspace\bizleap-ds\bizleap-ds-service\src\main\java\employee
+2018-05-18 12:24:28 DEBUG logging:29 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 12:24:31 DEBUG FileLoaderImpl:60 - File name....C:\bizleap\ds\data\employee.txt
+2018-05-18 12:24:31 ERROR FileLoaderImpl:63 - File not found: C:\bizleap\ds\data\employee.txt
+2018-05-18 12:37:57 DEBUG logging:29 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 12:38:00 DEBUG FileLoaderImpl:59 - File name....C:\bizleap\ds\data\employee.txt
+2018-05-18 12:38:00 DEBUG FileLoaderImpl:47 - About to read fileC:/bizleap/hr/bizleap/data/C:\bizleap\ds\data\employee.txt
+2018-05-18 12:38:00 ERROR FileLoaderImpl:62 - File not found: C:\bizleap\ds\data\employee.txt
+2018-05-18 12:42:10 DEBUG logging:29 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 12:42:13 DEBUG FileLoaderImpl:59 - File name....C:\bizleap\ds\data\employee.txt
+2018-05-18 12:42:13 DEBUG FileLoaderImpl:47 - About to read fileC:/bizleap/hr/bizleap/data/C:\bizleap\ds\data\employee.txt
+2018-05-18 12:42:13 ERROR FileLoaderImpl:62 - File not found: C:\bizleap\ds\data\employee.txt
+2018-05-18 12:46:37 DEBUG logging:29 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 12:46:40 DEBUG FileLoaderImpl:59 - File name....employee.txt
+2018-05-18 12:46:40 DEBUG FileLoaderImpl:47 - About to read fileC:/bizleap/ds/data/employee.txt
+2018-05-18 12:46:40 DEBUG FileLoaderImpl:114 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-18 12:46:40 DEBUG FileLoaderImpl:114 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-18 12:46:40 DEBUG FileLoaderImpl:114 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-18 12:46:40 DEBUG FileLoaderImpl:59 - File name....company.txt
+2018-05-18 12:46:40 DEBUG FileLoaderImpl:47 - About to read fileC:/bizleap/ds/data/company.txt
+2018-05-18 12:46:40 DEBUG FileLoaderImpl:114 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-18 12:46:40 DEBUG FileLoaderImpl:114 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-18 12:46:40 DEBUG FileLoaderImpl:114 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-18 12:49:40 DEBUG logging:29 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 12:49:43 DEBUG FileLoaderImpl:59 - File name....employee.txt
+2018-05-18 12:49:43 DEBUG FileLoaderImpl:47 - About to read fileC:/bizleap/ds/data/employee.txt
+2018-05-18 12:49:43 DEBUG FileLoaderImpl:114 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-18 12:49:43 DEBUG FileLoaderImpl:114 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-18 12:49:43 DEBUG FileLoaderImpl:114 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-18 12:49:43 DEBUG FileLoaderImpl:59 - File name....company.txt
+2018-05-18 12:49:43 DEBUG FileLoaderImpl:47 - About to read fileC:/bizleap/ds/data/company.txt
+2018-05-18 12:49:43 DEBUG FileLoaderImpl:114 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-18 12:49:43 DEBUG FileLoaderImpl:114 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-18 12:49:43 DEBUG FileLoaderImpl:114 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-18 12:50:51 DEBUG logging:29 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 12:50:53 DEBUG FileLoaderImpl:59 - File name....employee.txt
+2018-05-18 12:50:53 DEBUG FileLoaderImpl:47 - About to read fileC:/bizleap/ds/data/employee.txt
+2018-05-18 12:50:53 DEBUG FileLoaderImpl:114 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-18 12:50:53 DEBUG FileLoaderImpl:114 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-18 12:50:53 DEBUG FileLoaderImpl:114 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-18 12:50:53 DEBUG FileLoaderImpl:59 - File name....company.txt
+2018-05-18 12:50:53 DEBUG FileLoaderImpl:47 - About to read fileC:/bizleap/ds/data/company.txt
+2018-05-18 12:50:53 DEBUG FileLoaderImpl:114 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-18 12:50:53 DEBUG FileLoaderImpl:114 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-18 12:50:53 DEBUG FileLoaderImpl:114 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-18 12:53:12 DEBUG logging:29 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 12:53:15 DEBUG FileLoaderImpl:59 - File name....employee.txt
+2018-05-18 12:53:15 DEBUG FileLoaderImpl:47 - About to read fileC:/bizleap/ds/data/employee.txt
+2018-05-18 12:53:15 DEBUG FileLoaderImpl:114 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-18 12:53:15 DEBUG FileLoaderImpl:114 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-18 12:53:15 DEBUG FileLoaderImpl:114 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-18 12:53:15 DEBUG FileLoaderImpl:59 - File name....company.txt
+2018-05-18 12:53:15 DEBUG FileLoaderImpl:47 - About to read fileC:/bizleap/ds/data/company.txt
+2018-05-18 12:53:15 DEBUG FileLoaderImpl:114 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-18 12:53:15 DEBUG FileLoaderImpl:114 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-18 12:53:15 DEBUG FileLoaderImpl:114 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-18 12:54:16 DEBUG logging:29 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 12:54:20 DEBUG FileLoaderImpl:59 - File name....employee.txt
+2018-05-18 12:54:20 DEBUG FileLoaderImpl:47 - About to read fileC:/bizleap/ds/data/employee.txt
+2018-05-18 12:54:20 DEBUG FileLoaderImpl:114 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-18 12:54:20 DEBUG FileLoaderImpl:114 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-18 12:54:20 DEBUG FileLoaderImpl:114 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-18 12:54:20 DEBUG FileLoaderImpl:59 - File name....company.txt
+2018-05-18 12:54:20 DEBUG FileLoaderImpl:47 - About to read fileC:/bizleap/ds/data/company.txt
+2018-05-18 12:54:20 DEBUG FileLoaderImpl:114 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-18 12:54:20 DEBUG FileLoaderImpl:114 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-18 12:54:20 DEBUG FileLoaderImpl:114 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-18 14:21:24 DEBUG logging:29 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 14:21:26 DEBUG FileLoaderImpl:59 - File name....employee.txt
+2018-05-18 14:21:26 DEBUG FileLoaderImpl:47 - About to read fileC:/bizleap/ds/data/employee.txt
+2018-05-18 14:21:26 DEBUG FileLoaderImpl:114 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-18 14:21:26 DEBUG FileLoaderImpl:114 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-18 14:21:26 DEBUG FileLoaderImpl:114 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-18 14:21:26 DEBUG FileLoaderImpl:59 - File name....company.txt
+2018-05-18 14:21:26 DEBUG FileLoaderImpl:47 - About to read fileC:/bizleap/ds/data/company.txt
+2018-05-18 14:21:26 DEBUG FileLoaderImpl:114 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-18 14:21:26 DEBUG FileLoaderImpl:114 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-18 14:21:26 DEBUG FileLoaderImpl:114 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-18 15:08:16 DEBUG logging:29 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 15:08:19 DEBUG FileLoaderImpl:59 - File name....employee.txt
+2018-05-18 15:08:19 DEBUG FileLoaderImpl:47 - About to read fileC:/bizleap/ds/data/employee.txt
+2018-05-18 15:08:19 DEBUG FileLoaderImpl:114 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-18 15:08:19 DEBUG FileLoaderImpl:114 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-18 15:08:19 DEBUG FileLoaderImpl:114 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-18 15:08:19 DEBUG FileLoaderImpl:59 - File name....company.txt
+2018-05-18 15:08:19 DEBUG FileLoaderImpl:47 - About to read fileC:/bizleap/ds/data/company.txt
+2018-05-18 15:08:19 DEBUG FileLoaderImpl:114 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-18 15:08:19 DEBUG FileLoaderImpl:114 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-18 15:08:19 DEBUG FileLoaderImpl:114 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-18 15:13:02 DEBUG logging:29 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 15:13:06 DEBUG FileLoaderImpl:59 - File name....employee.txt
+2018-05-18 15:13:06 DEBUG FileLoaderImpl:47 - About to read fileC:/bizleap/ds/data/employee.txt
+2018-05-18 15:13:06 DEBUG FileLoaderImpl:114 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-18 15:13:06 DEBUG FileLoaderImpl:114 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-18 15:13:06 DEBUG FileLoaderImpl:114 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-18 15:13:06 DEBUG FileLoaderImpl:59 - File name....company.txt
+2018-05-18 15:13:06 DEBUG FileLoaderImpl:47 - About to read fileC:/bizleap/ds/data/company.txt
+2018-05-18 15:13:06 DEBUG FileLoaderImpl:114 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-18 15:13:06 DEBUG FileLoaderImpl:114 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-18 15:13:06 DEBUG FileLoaderImpl:114 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-18 15:13:06 DEBUG CompanySaverImpl:15 - About to savecom.bizleap.commons.domain.Company@5c10285a[boId=COMP01,name=Apple,email=apple@gmail.com,phone=800-692-7753,address=California U.S,ceo=Tim Cook]
+2018-05-18 15:13:06 DEBUG CompanySaverImpl:15 - Company Successfully saved.
+2018-05-18 15:13:06 DEBUG CompanySaverImpl:15 - About to savecom.bizleap.commons.domain.Company@6b667cb3[boId=COMP02,name=IBM,email=ibm@gmail.com,phone=800-426-4968,address=New York U.S,ceo=Ginni Rometty]
+2018-05-18 15:13:06 DEBUG CompanySaverImpl:15 - Company Successfully saved.
+2018-05-18 15:13:06 DEBUG CompanySaverImpl:15 - About to savecom.bizleap.commons.domain.Company@6f38a289[boId=COMP03,name=Adobe,email=adobe@gmail.com,phone=800-585-0774,address=California U.S,ceo=Shantanu Narayen]
+2018-05-18 15:13:06 DEBUG CompanySaverImpl:15 - Company Successfully saved.
+2018-05-18 15:18:26 DEBUG logging:29 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 15:18:30 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-18 15:18:30 DEBUG FileLoaderImpl:45 - About to read fileC:/bizleap/ds/data/employee.txt
+2018-05-18 15:18:30 DEBUG FileLoaderImpl:115 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-18 15:18:30 DEBUG FileLoaderImpl:115 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-18 15:18:30 DEBUG FileLoaderImpl:115 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-18 15:18:30 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-18 15:18:30 DEBUG FileLoaderImpl:45 - About to read fileC:/bizleap/ds/data/company.txt
+2018-05-18 15:18:30 DEBUG FileLoaderImpl:115 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-18 15:18:30 DEBUG FileLoaderImpl:115 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-18 15:18:30 DEBUG FileLoaderImpl:115 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-18 15:18:30 DEBUG CompanySaverImpl:15 - About to savecom.bizleap.commons.domain.Company@5c10285a[boId=COMP01,name=Apple,email=apple@gmail.com,phone=800-692-7753,address=California U.S,ceo=Tim Cook]
+2018-05-18 15:18:30 DEBUG CompanySaverImpl:15 - Company Successfully saved.
+2018-05-18 15:18:30 DEBUG CompanySaverImpl:15 - About to savecom.bizleap.commons.domain.Company@6b667cb3[boId=COMP02,name=IBM,email=ibm@gmail.com,phone=800-426-4968,address=New York U.S,ceo=Ginni Rometty]
+2018-05-18 15:18:30 DEBUG CompanySaverImpl:15 - Company Successfully saved.
+2018-05-18 15:18:30 DEBUG CompanySaverImpl:15 - About to savecom.bizleap.commons.domain.Company@6f38a289[boId=COMP03,name=Adobe,email=adobe@gmail.com,phone=800-585-0774,address=California U.S,ceo=Shantanu Narayen]
+2018-05-18 15:18:30 DEBUG CompanySaverImpl:15 - Company Successfully saved.
+2018-05-18 16:04:19 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 16:04:21 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-18 16:04:21 DEBUG FileLoaderImpl:45 - About to read fileC:/bizleap/ds/data/employee.txt
+2018-05-18 16:04:21 DEBUG FileLoaderImpl:115 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-18 16:04:21 DEBUG FileLoaderImpl:115 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-18 16:04:21 DEBUG FileLoaderImpl:115 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-18 16:04:21 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-18 16:04:21 DEBUG FileLoaderImpl:45 - About to read fileC:/bizleap/ds/data/company.txt
+2018-05-18 16:04:21 DEBUG FileLoaderImpl:115 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-18 16:04:21 DEBUG FileLoaderImpl:115 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-18 16:04:21 DEBUG FileLoaderImpl:115 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-18 16:04:21 DEBUG CompanySaverImpl:15 - About to savecom.bizleap.commons.domain.Company@7ea08277[boId=COMP01,name=Apple,email=apple@gmail.com,phone=800-692-7753,address=California U.S,ceo=Tim Cook]
+2018-05-18 16:09:50 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 16:09:53 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-18 16:09:53 DEBUG FileLoaderImpl:45 - About to read fileC:/bizleap/ds/data/employee.txt
+2018-05-18 16:09:53 DEBUG FileLoaderImpl:115 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-18 16:09:53 DEBUG FileLoaderImpl:115 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-18 16:09:53 DEBUG FileLoaderImpl:115 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-18 16:09:53 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-18 16:09:53 DEBUG FileLoaderImpl:45 - About to read fileC:/bizleap/ds/data/company.txt
+2018-05-18 16:09:53 DEBUG FileLoaderImpl:115 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-18 16:09:53 DEBUG FileLoaderImpl:115 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-18 16:09:53 DEBUG FileLoaderImpl:115 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-18 16:09:53 DEBUG CompanySaverImpl:15 - About to savecom.bizleap.commons.domain.Company@b965857[boId=COMP01,name=Apple,email=apple@gmail.com,phone=800-692-7753,address=California U.S,ceo=Tim Cook]
+2018-05-18 16:52:50 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 16:52:53 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-18 16:52:53 DEBUG FileLoaderImpl:45 - About to read fileC:/bizleap/ds/data/employee.txt
+2018-05-18 16:52:53 DEBUG FileLoaderImpl:115 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-18 16:52:53 DEBUG FileLoaderImpl:115 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-18 16:52:53 DEBUG FileLoaderImpl:115 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-18 16:52:53 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-18 16:52:53 DEBUG FileLoaderImpl:45 - About to read fileC:/bizleap/ds/data/company.txt
+2018-05-18 16:52:53 DEBUG FileLoaderImpl:115 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-18 16:52:53 DEBUG FileLoaderImpl:115 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-18 16:52:53 DEBUG FileLoaderImpl:115 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-18 16:52:53 DEBUG CompanySaverImpl:15 - About to savecom.bizleap.commons.domain.Company@4ce14f05[boId=COMP01,name=Apple,email=apple@gmail.com,phone=800-692-7753,address=California U.S,ceo=Tim Cook]
+2018-05-18 16:54:11 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 16:54:14 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-18 16:54:14 DEBUG FileLoaderImpl:45 - About to read fileC:/bizleap/ds/data/employee.txt
+2018-05-18 16:54:14 DEBUG FileLoaderImpl:115 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-18 16:54:14 DEBUG FileLoaderImpl:115 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-18 16:54:14 DEBUG FileLoaderImpl:115 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-18 16:54:14 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-18 16:54:14 DEBUG FileLoaderImpl:45 - About to read fileC:/bizleap/ds/data/company.txt
+2018-05-18 16:54:14 DEBUG FileLoaderImpl:115 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-18 16:54:14 DEBUG FileLoaderImpl:115 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-18 16:54:14 DEBUG FileLoaderImpl:115 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-18 16:54:14 DEBUG CompanySaverImpl:15 - About to savecom.bizleap.commons.domain.Company@4ce14f05[boId=COMP01,name=Apple,email=apple@gmail.com,phone=800-692-7753,address=California U.S,ceo=Tim Cook]
+2018-05-18 16:56:57 DEBUG logging:192 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2018-05-18 16:57:00 DEBUG FileLoaderImpl:60 - File name....employee.txt
+2018-05-18 16:57:00 DEBUG FileLoaderImpl:45 - About to read fileC:/bizleap/ds/data/employee.txt
+2018-05-18 16:57:00 DEBUG FileLoaderImpl:115 - line is: PER01,Alice Kim,30,Software Engineer,500000,alicekim@gmail.com,01132998439,COMP01
+2018-05-18 16:57:00 DEBUG FileLoaderImpl:115 - line is: PER02,Bob Gilman,29,Project Manager,400000,bobgilman@gmail.com,01124989988,COMP02
+2018-05-18 16:57:00 DEBUG FileLoaderImpl:115 - line is: PER03,John Mark,27,Web Developer,300000,johnmark@gmail.com,01135654761,COMP03
+2018-05-18 16:57:00 DEBUG FileLoaderImpl:60 - File name....company.txt
+2018-05-18 16:57:00 DEBUG FileLoaderImpl:45 - About to read fileC:/bizleap/ds/data/company.txt
+2018-05-18 16:57:00 DEBUG FileLoaderImpl:115 - line is: COMP01,Apple,California U.S,800-692-7753,apple@gmail.com,Tim Cook
+2018-05-18 16:57:00 DEBUG FileLoaderImpl:115 - line is: COMP02,IBM,New York U.S,800-426-4968,ibm@gmail.com,Ginni Rometty
+2018-05-18 16:57:00 DEBUG FileLoaderImpl:115 - line is: COMP03,Adobe,California U.S,800-585-0774,adobe@gmail.com,Shantanu Narayen
+2018-05-18 16:57:00 DEBUG CompanySaverImpl:15 - About to savecom.bizleap.commons.domain.Company@4ce14f05[boId=COMP01,name=Apple,email=apple@gmail.com,phone=800-692-7753,address=California U.S,ceo=Tim Cook]
+2018-05-18 16:57:01 DEBUG CompanySaverImpl:15 - Company Successfully saved.
+2018-05-18 16:57:01 DEBUG CompanySaverImpl:15 - About to savecom.bizleap.commons.domain.Company@4fad6218[boId=COMP02,name=IBM,email=ibm@gmail.com,phone=800-426-4968,address=New York U.S,ceo=Ginni Rometty]
+2018-05-18 16:57:01 DEBUG CompanySaverImpl:15 - Company Successfully saved.
+2018-05-18 16:57:01 DEBUG CompanySaverImpl:15 - About to savecom.bizleap.commons.domain.Company@6f4ade6e[boId=COMP03,name=Adobe,email=adobe@gmail.com,phone=800-585-0774,address=California U.S,ceo=Shantanu Narayen]
+2018-05-18 16:57:01 DEBUG CompanySaverImpl:15 - Company Successfully saved.
