@@ -21,7 +21,7 @@ static Logger logger=Logger.getLogger(CompanyServiceImplTest.class);
 	@Autowired
 	EmployeeService employeeService;
 	
-	@Ignore
+	//@Ignore
 	@Test
 	public void testGetAllEmployee() throws ServiceUnavailableException, IOException {
 		
@@ -36,7 +36,7 @@ static Logger logger=Logger.getLogger(CompanyServiceImplTest.class);
 		assertEquals(8,employeeService.getAllEmployee().size());
 		//assertEquals((companyService.findByCompanyBoIdSingle("COMP01")).getName(),"Apple");
 	}
-	@Ignore
+	//@Ignore
 	@Test
 	public void testFindByAllEmployee() throws ServiceUnavailableException {
 		assertNotNull(employeeService.findByEmployeeBoIdSingle("PER01"));

@@ -12,6 +12,7 @@ import org.junit.Ignore;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 
+import com.bizleap.commons.domain.enums.ObjectFullnessLevel;
 import com.bizleap.commons.domain.exception.ServiceUnavailableException;
 import com.bizleap.training.ds.service.CompanyService;
 
@@ -22,7 +23,7 @@ public class CompanyServiceImplTest  extends ServiceTest{
 	@Autowired
 	CompanyService companyService;
 	
-	//@Ignore
+	@Ignore
 	@Test
 	public void testGetAllCompany() throws ServiceUnavailableException, IOException {
 		
@@ -37,12 +38,30 @@ public class CompanyServiceImplTest  extends ServiceTest{
 		assertEquals(3,companyService.getAllCompany().size());
 		//assertEquals((companyService.findByCompanyBoIdSingle("COMP01")).getName(),"Apple");
 	}
-	//@Ignore
+	@Ignore
 	@Test
 	public void testFindByAllCompany() throws ServiceUnavailableException {
 		assertNotNull(companyService.findByCompanyBoIdSingle("COMP01"));
 		logger.info(" Find Company :"+companyService.findByCompanyBoIdSingle("COMP01"));
 		assertEquals((companyService.findByCompanyBoIdSingle("COMP01")).getName(),"Apple");
 	}
-	
+	@Ignore
+	@Test
+	public void testFindByCompanyBOID() throws IOException,ServiceUnavailableException{
+		assertNotNull(companyService.findByCompanyBoId("COMP01",ObjectFullnessLevel.FULL));
+		logger.info(companyService.findByCompanyBoId("COMP01",ObjectFullnessLevel.FULL));
+		assertTrue(CollectionUtils.isNotEmpty(companyService.findByCompanyBoId("COMP01",ObjectFullnessLevel.FULL)));
+		
+		
+		assertNotNull(companyService.findByCompanyBoId("COMP01",ObjectFullnessLevel.DETAILED));
+		logger.info(companyService.findByCompanyBoId("COMP01",ObjectFullnessLevel.DETAILED));
+		assertTrue(CollectionUtils.isNotEmpty(companyService.findByCompanyBoId("COMP01",ObjectFullnessLevel.DETAILED)));
+
+		
+		assertNotNull(companyService.findByCompanyBoId("COMP01",ObjectFullnessLevel.SUMMARY));
+		logger.info(companyService.findByCompanyBoId("COMP01",ObjectFullnessLevel.SUMMARY));
+		assertTrue(CollectionUtils.isNotEmpty(companyService.findByCompanyBoId("COMP01",ObjectFullnessLevel.SUMMARY)));
+
+		
+	}
 }
